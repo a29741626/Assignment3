@@ -1,0 +1,27 @@
+Route::totalLength() - N0809343, N0786783, N0815464, N0790170,N0834113
+Route::netLength() - N0791167, T0112963, T0118137, N0771231,t0123086
+Route::totalHeightGain() - T0120922, T0117358, N0793293, N0812990, N0800619
+Route::netHeightGain() - N0743815,N0801256, T0084153
+Route::minLatitude() - N0806708, 
+Route::maxLatitude() - N0798917, N0821510, N0799202
+Route::minLongitude() - N0782914, N0783935, N0786072, N0784536
+Route::maxLongitude() - N0770832
+Route::minElevation() -
+Route::maxElevation() - N0832882, N0792395, N0801179
+Route::maxGradient() -
+Route::minGradient() -
+Route::steepestGradient() -
+Route::operator[]() - N0813118 , N0781349
+Route::findPosition() - T0117244, T0112609, T0121709
+Route::findNameOf() -
+Route::timesVisited(string) - 
+Route::timesVisited(Position) -
+Route::containsCycles() -
+Track::totalTime() -
+Track::travellingTime() - N0800790
+Track::restingTime() - N0804540
+Track::longestRest() -
+Track::maxSpeed() -
+Track::averageSpeed() -
+Track::maxRateOfAscent() -
+Track::maxRateOfDescent() -
